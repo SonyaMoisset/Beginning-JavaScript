@@ -23,7 +23,7 @@ INTRODUCTION<br>
 18. Common Mistakes, Debbuging, and Error Handling<br>
 
 ## Updates
-10/26/2015<br> 
+### 10/26/2015<br> 
 Created git repository and updated readme<br>
 Finished Chapter 1 and uploaded examples<br>
 Uploaded Chapter 2 examples<br>
