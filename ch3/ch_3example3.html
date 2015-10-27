@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chapter 3, Example 3</title>
+    </head>
+    
+    <body>
+        <script>
+            var secretNumber = prompt("Pick a number between 1 and 5:", "");
+            secretNumber = parseInt(secretNumber, 10);
+            
+            switch (secretNumber) {
+                case 1:
+                case 2:
+                    document.write("Too low!");
+                    break;
+                    
+                case 3:
+                    document.write("You guessed the secret number!");
+                    break;
+                    
+                case 4:
+                case 5:
+                    document.write("Too high!");
+                    break;
+                default:
+                    document.write("You didn't enter a number between 1 and 5.");
+                    break;
+            }
+            document.write("<br />Execution continues here");
+        </script>
+    </body>
+</html>
