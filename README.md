@@ -27,3 +27,7 @@ INTRODUCTION<br>
 Created git repository and updated readme<br>
 Finished Chapter 1 and uploaded examples<br>
 Finished Chapter 2 and uploaded examples<br>
+
+### 10/27/2015<br>
+Uploaded Chapter 2 exercises<br>
+Uploaded Chapter 3 files<br>
