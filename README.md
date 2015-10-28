@@ -35,3 +35,4 @@ Uploaded Chapter 3 exercises<br>
 
 ### 10/28/2015<br>
 Finished Chapter 4 and uploaded examples<br>
+Uploaded Chapter 4 exercises<br>
