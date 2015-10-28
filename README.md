@@ -32,3 +32,6 @@ Finished Chapter 2 and uploaded examples<br>
 Uploaded Chapter 2 exercises<br>
 Finished Chapter 3 and uploaded examples<br>
 Uploaded Chapter 3 exercises<br>
+
+### 10/28/2015<br>
+Finished Chapter 4 and uploaded examples<br>
