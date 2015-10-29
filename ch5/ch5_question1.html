@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chapter 5: Question 1</title>
+    </head>
+    
+    <body>
+        <script>
+            var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+            
+            var nowDate = new Date();
+            
+            nowDate.setMonth(nowDate.getMonth() + 12);
+            document.write(" Date 12 months ahead is " + nowDate.getDate());
+            document.write(" " + months[nowDate.getMonth()]);
+            document.write(" " + nowDate.getFullYear());
+        </script>
+    </body>
+</html>

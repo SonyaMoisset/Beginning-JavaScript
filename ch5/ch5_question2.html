@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chapter 5: Question 2</title>
+    </head>
+    
+    <body>
+        <script>
+            var inputName = "";
+            var namesArray = [];
+            
+            while ((inputName = prompt("Enter a name", "")) != "") {
+                namesArray[namesArray.length] = inputName;
+            }
+            
+            namesArray.sort();
+            
+            var namesList = namesArray.join("<br />");
+            document.write(namesList);
+        </script>
+    </body>
+</html>
