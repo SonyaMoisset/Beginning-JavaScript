@@ -3,11 +3,11 @@
 ## Beginning JavaScript, 5th Edition
 
 INTRODUCTION<br>
-1. Introduction to JavaScript and the Web<br>
-2. Data Types and Variables<br>
-3. Decisions and Loops<br>
-4. Functions and Scope<br>
-5. JavaScript - An Object-Based Language<br>
+1. Introduction to JavaScript and the Web | DONE<br> 
+2. Data Types and Variables | DONE<br>
+3. Decisions and Loops | DONE<br>
+4. Functions and Scope | DONE<br>
+5. JavaScript - An Object-Based Language | DONE<br>
 6. String Manipulation<br>
 7. Date, Time, and Timers<br>
 8. Programming the Browser<br>
@@ -39,3 +39,4 @@ Uploaded Chapter 4 exercises<br>
 
 ### 10/29/2015<br>
 Finished Chapter 5 and uploaded examples<br>
+Uploaded Chapter 5 exercises<br>
