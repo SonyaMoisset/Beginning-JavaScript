@@ -46,3 +46,4 @@ Reading Chapter 6 and uploaded some examples<br>
 
 ### 11/01/2015<br>
 Finished Chapter 6 and uploaded examples<br>
+Uploaded Chapter 6 exercises<br>
