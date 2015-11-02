@@ -9,7 +9,7 @@ INTRODUCTION<br>
 4. Functions and Scope | DONE<br>
 5. JavaScript - An Object-Based Language | DONE<br>
 6. String Manipulation | DONE<br>
-7. Date, Time, and Timers<br>
+7. Date, Time, and Timers | DONE<br>
 8. Programming the Browser<br>
 9. DOM Scripting<br>
 10. Events<br>
@@ -47,3 +47,7 @@ Reading Chapter 6 and uploaded some examples<br>
 ### 11/01/2015<br>
 Finished Chapter 6 and uploaded examples<br>
 Uploaded Chapter 6 exercises<br>
+
+### 11/02/2015<br>
+Finished Chapter 7 and uploaded examples<br>
+Uploaded Chapter 7 exercises<br>
