@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chapter 7: Question 1</title>
+    </head>
+    
+    <body>
+        <script>
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday",
+                        "Thursday", "Friday", "Saturday"];
+            
+            var year = prompt("Enter the four digit year you were born.");
+            var month = prompt("Enter your birth month (1 - 12).");
+            var date = prompt("Enter the day you were born.");
+            
+            var birthDate = new Date(year, month - 1, date);
+            
+            alert(days[birthDate.getDay()]);
+        </script>
+    </body>
+</html>
