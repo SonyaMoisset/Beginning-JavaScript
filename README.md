@@ -10,7 +10,7 @@ INTRODUCTION<br>
 5. JavaScript - An Object-Based Language | DONE<br>
 6. String Manipulation | DONE<br>
 7. Date, Time, and Timers | DONE<br>
-8. Programming the Browser<br>
+8. Programming the Browser | DONE<br>
 9. DOM Scripting<br>
 10. Events<br>
 11. HTML Forms: Interacting with the User<br>
@@ -51,3 +51,7 @@ Uploaded Chapter 6 exercises<br>
 ### 11/02/2015<br>
 Finished Chapter 7 and uploaded examples<br>
 Uploaded Chapter 7 exercises<br>
+
+### 11/03/2015<br>
+Finished Chapter 8 and uploaded examples<br>
+Uploaded Chapter 8 exercises<br>
