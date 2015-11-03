@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Chapter 8, Question 2</title>
+    </head>
+    
+    <body>
+        <img src="" width="200" height="150" alt="My Image" />
+        
+        <script>
+            function getRandomNumber(min, max) {
+                return Math.floor(Math.random() * max) + min;
+            }
+            
+            var myImages = [
+                "usa.gif",
+                "canada.gif",
+                "jamaica.gif",
+                "mexico.gif"
+            ];
+            
+            var random = getRandomNumber(0, myImages.length);
+            
+            document.images[0].src = myImages[random];
+        </script>
+    </body>
+</html>
