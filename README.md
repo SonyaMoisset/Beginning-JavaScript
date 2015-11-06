@@ -11,7 +11,7 @@ INTRODUCTION<br>
 6. String Manipulation | DONE<br>
 7. Date, Time, and Timers | DONE<br>
 8. Programming the Browser | DONE<br>
-9. DOM Scripting<br>
+9. DOM Scripting | DONE<br>
 10. Events<br>
 11. HTML Forms: Interacting with the User<br>
 12. JSON<br>
@@ -55,3 +55,7 @@ Uploaded Chapter 7 exercises<br>
 ### 11/03/2015<br>
 Finished Chapter 8 and uploaded examples<br>
 Uploaded Chapter 8 exercises<br>
+
+### 11/05/2015<br>
+Finished Chapter 9 and uploaded examples<br>
+Uploaded Chapter 9 exercises<br>
